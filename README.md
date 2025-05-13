@@ -32,9 +32,9 @@ The primary goals include:
 * `dataset_preparation.ipynb`: Used for preparing train-test-validation splits
 * `dataset_stats`: Used to check the class distribution across training, testing and validation sets of all three datasets
 * `DeBERTA-model.ipynb`: Jupyter Notebook for fine-tuning and evaluating the DeBERTa-v3-base model on the iSarcasmEval, Sarcasm_Corpus_V2, and combined datasets.
-* `RoBERTa_model.ipynb`: Jupyter Notebook for fine-tuning and evaluating a RoBERTa-base model.
 * `Bi-RNN-FAN.ipynb`: Used to train FAN models (with and without GloVe) on three datasets (total 6 model configurations)
 * `Bi-RNN-HAN.ipynb`: Used to train HAN models (with and without GloVe) on three datasets (total 6 model configurations)
+* `RoBERTa_Models`: Folder containing Jupyter Notebooks for fine-tuning and evaluating the RoBERTa-base models.
 * `Bigbench-Snarks-evaluation.ipynb`: Script/Notebook to evaluate the sarcasm detection models (trained by the above notebooks) on the BigBench SNARKS dataset.
 * Following folder contains the data used for training, testing and validation:
     * `/iSarcasmEval/`
