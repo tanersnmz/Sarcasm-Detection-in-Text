@@ -28,7 +28,7 @@ The primary goals include:
 ## File Structure
 
 * `DeBERTA-model.ipynb`: Jupyter Notebook for fine-tuning and evaluating the DeBERTa-v3-base model on the iSarcasmEval, Sarcasm_Corpus_V2, and combined datasets.
-* `RoBERTa_model.ipynb`: Jupyter Notebook for fine-tuning and evaluating a RoBERTa-base model.
+* `RoBERTa_Models`: Folder containing Jupyter Notebooks for fine-tuning and evaluating the RoBERTa-base models.
 * `Bigbench-Snarks-evaluation.ipynb`: Script/Notebook to evaluate the sarcasm detection models (trained by the above notebooks) on the BigBench SNARKS dataset.
 * `/data/` (Example directory structure, please adapt)
     * `/iSarcasmEval/`
