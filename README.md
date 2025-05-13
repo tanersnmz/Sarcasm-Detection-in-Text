@@ -1,7 +1,7 @@
 # Sarcasm-Detection-in-Text
 ## Overview
 
-This project explores sarcasm detection in text by fine-tuning pre-trained Transformer models. It involves training DeBERTa, RoBERTa and HAN models on three distinct datasets: iSarcasmEval, Sarcasm_Corpus_V2, and a combined dataset. The trained models are then evaluated on their respective test sets and further assessed on the BigBench SNARKS benchmark to test their ability to discern sarcasm in a pairwise comparison task.
+This project explores sarcasm detection in text by fine-tuning pre-trained Transformer models and by training Hierarchical Attention Networks (HAN). It involves training DeBERTa, RoBERTa and HAN models on three distinct datasets: iSarcasmEval, Sarcasm_Corpus_V2, and a combined dataset. The trained models are then evaluated on their respective test sets and further assessed on the BigBench SNARKS benchmark to test their ability to discern sarcasm in a pairwise comparison task.
 
 The primary goals include:
 * Fine-tuning robust sarcasm detection models.
